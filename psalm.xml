@@ -4,6 +4,6 @@
        useDocblockTypes="true"
        totallyTyped="true">
     <projectFiles>
-        <directory name="./src" />
+        <directory name="./limeberry" />
     </projectFiles>
 </psalm>
