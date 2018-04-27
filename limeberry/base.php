@@ -2,11 +2,11 @@
 /**
  * Limeberry Framework
  *
- *	A php framework for fast web development.
+ * A php framework for fast web development.
  *
- *	@package Limeberry Framework
- *	@author Sinan SALIH
- *	@copyright Copyright (C) 2018 Sinan SALIH
+ * @package Limeberry Framework
+ * @author Sinan SALIH
+ * @copyright Copyright (C) 2018 Sinan SALIH
  */
 
 define('APP_FOLDER', 'application');
