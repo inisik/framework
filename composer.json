@@ -38,12 +38,12 @@
             "limeberry\\visual\\": "./limberry/visual"
         },
         "classmap": [
-            "./limeberry",
+            "./limeberry"
         ]
     },
     "support": {
         "email": "limeberry.framework@gmail.com",
-        "docs": "https://limeberry.github.io/docs/index.html",
+        "docs": "https://limeberry.github.io/docs/index.html"
     },
     "require-dev": {
         "phpunit/phpunit": "^7",
