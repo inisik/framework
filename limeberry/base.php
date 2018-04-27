@@ -22,3 +22,7 @@ define('APP_NAME', 'Limeberry Application');
 define('APP_DESC', 'Your description for the application.');
 
 define('APP_QUERY_DATA', array());
+
+// These two configuration options should never change.
+defined('LIMEBERRY_VERSION') || define('LIMEBERRY_VERSION', '1.1.0');
+defined('ROOT') || define('ROOT', dirname(dirname(__FILE__)));
