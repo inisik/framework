@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/limeberry/limeberry.github.io/master/assets/img/limeberry_logo.png" width="154" />
 </p>
 
-<center> [![Build Status](https://travis-ci.org/limeberry/framework.svg?branch=master)](https://travis-ci.org/limeberry/framework) </center>
+[![Build Status](https://travis-ci.org/limeberry/framework.svg?branch=master)](https://travis-ci.org/limeberry/framework)
 
 ## About Limeberry Framework
 Welcome to Limeberry Framework. Limeberry is an excellent but straightforward application development framework. Limeberry aims to help you in your coding process by speeding up development with ready to use libraries that require minimal configuration. The structure was developed based on the MVC architectural design. You can check out some key featues of the framework;
