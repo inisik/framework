@@ -35,7 +35,6 @@ Configuration::setApplicationUrl("http://localhost/limeberry");
  */
 Configuration::setRoot(false);
 
-
 /**
  * === [ Application Name ] ===
  * This configuration is used to set name of your application.
