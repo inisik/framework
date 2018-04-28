@@ -57,7 +57,7 @@ Configuration::setDescription("AppDescription");
 // Configuration::UnwantedParameters(array("'", "-"));
 
 /**-------------------*/
-/**	Application Class */
+/** Application Class */
 /**-------------------*/
 class Application
 {
